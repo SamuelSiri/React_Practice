@@ -1,2 +1,3 @@
-2026/02/16-14:55:15.140 3d41 Creating DB /home/siri/Desktop/Proyecto_React/$HOME/.config/BraveSoftware/Brave-Browser/Default/Sync Data/LevelDB since it was missing.
-2026/02/16-14:55:15.381 3d41 Reusing MANIFEST /home/siri/Desktop/Proyecto_React/$HOME/.config/BraveSoftware/Brave-Browser/Default/Sync Data/LevelDB/MANIFEST-000001
+2026/02/16-19:54:02.893 3000 Reusing MANIFEST /home/siri/Desktop/Proyecto_React/$HOME/.config/BraveSoftware/Brave-Browser/Default/Sync Data/LevelDB/MANIFEST-000001
+2026/02/16-19:54:02.894 3000 Recovering log #3
+2026/02/16-19:54:02.908 3000 Reusing old log /home/siri/Desktop/Proyecto_React/$HOME/.config/BraveSoftware/Brave-Browser/Default/Sync Data/LevelDB/000003.log 

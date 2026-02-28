@@ -1,15 +1,24 @@
 import './App.css';
-import Button from "./components/Button";
+import { useState } from 'react';
+import {Button} from "./components";
 
 function App() {
+  const[count,setCount]=useState(0)
+  const[name, setName]=useState("Karlennys")
+  
+  const countMore=()=>{
+  setCount((count)=>count +1)
+  }
 
+  const changeName=()=>{
+    setName("Mia")
+  }
   return (
     <>
-      <Button ></Button>
+    <Button label={`${count}`} method={countMore}></Button>
+    <Button label={`${name}`} method={changeName}></Button>
     </>
   )
 }
-
-export const alan = "el mejor "
 
 export default App
