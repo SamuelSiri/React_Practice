@@ -7,6 +7,7 @@ method:() => void
 }
 
 export const Button=({label,method}:Props)=>{
+ 
 
 return(
  <>
